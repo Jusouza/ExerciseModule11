@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jokenpô</string>
+    <string name="txt_welcome">Welcome to Jokenpô</string>
+    <string name="txt_start">Start</string>
+    <string name="player_1">Player 1</string>
+    <string name="select_action">Select action</string>
+    <string name="result">Result</string>
+    <string name="menu_title">Back</string>
+    <string name="result_win">Player xxx Win!!</string>
+</resources>
